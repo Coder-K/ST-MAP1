@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ST MAP1", "ST MAP1.csproj", "{5AC05C2B-E823-4B10-B029-B753582AF4C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCal", "..\..\..\OneDrive\Documents\school\2021\semester2\prog\poe\task 1 20114004 Keamogetsoe\MyCal\MyCal.csproj", "{27A1C0D3-A81D-4CFA-B7F5-FE2209D8C17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC05C2B-E823-4B10-B029-B753582AF4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC05C2B-E823-4B10-B029-B753582AF4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC05C2B-E823-4B10-B029-B753582AF4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC05C2B-E823-4B10-B029-B753582AF4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A1C0D3-A81D-4CFA-B7F5-FE2209D8C17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A1C0D3-A81D-4CFA-B7F5-FE2209D8C17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A1C0D3-A81D-4CFA-B7F5-FE2209D8C17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A1C0D3-A81D-4CFA-B7F5-FE2209D8C17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9059E04D-6F88-454A-8A76-DA231919D035}
+	EndGlobalSection
+EndGlobal
